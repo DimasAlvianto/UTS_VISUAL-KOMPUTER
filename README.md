@@ -1,8 +1,3 @@
-# UTS_VISUAL-KOMPUTER
-Dimas Alvianto
-IF22A
-23422009
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
